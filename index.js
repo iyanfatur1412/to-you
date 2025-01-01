@@ -85,7 +85,7 @@ function checkAudio() {
 function frame4 () {
 				return `
 								<div class="col-end">
-												<h1>Ore to Tsukiatte Kudasai?!</h1>
+												<h1>Ore to Tsukiatte Kudasai!</h1>
 								</div>
 				`
 }
