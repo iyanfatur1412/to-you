@@ -26,9 +26,9 @@ function frame2 () {
 }
 
 function typing () {
-			let teks1 = "Terima kasih untuk dukungannya selama ini.";
-				let teks2 = "Aku selalu terbantu, bila saja aku tak memilikimu, aku tak tahu kedepannya akan seperti apa.";
-				let teks3 = "Sekali lagi, Terima Kasih!";
+			let teks1 = "Sejak awal aku sudah tertarik Padamu...";
+				let teks2 = "Izinkan agar kau selalu mendukung di sampingku, dan izinkan aku menyampaikan ini,";
+				let teks3 = "Aku Menyukaimu!";
 				
 				setType(teks1, 0);
 				setTimeout(() => {
